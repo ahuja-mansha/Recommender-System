@@ -47,5 +47,4 @@ We evaluate both systems on:
 
 ---
 
-## 📂 Repository Structure  
 
