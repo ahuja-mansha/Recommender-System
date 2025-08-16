@@ -1,4 +1,4 @@
-# 🛍️ Comparing Recommender Systems: Cross-Filtering vs LLM-Based  
+# 🛍️ Comparing Recommender Systems: CF vs LLM-Based  
 
 This project explores two distinct approaches to building recommender systems:  
 
